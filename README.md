@@ -22,8 +22,8 @@ Welcome to the MERN Smart Home Dashboard project! This is a fully static client-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NassimBenNsib/SmartHomeDashboard-MERN.git
-   cd SmartHomeDashboard-MERN
+   git clone https://github.com/i-amironman/Smart-Home-Dashboard-UI.git
+   cd Smart-Home-Dashboard-UI
    ```
 
 2. Install client dependencies: `cd client` && `npm install`
